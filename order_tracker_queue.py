@@ -1,11 +1,3 @@
-# dealing with orders
-# order comes in and is added to the queue
-# when order is delivered it is removed from a queue
-# and added to a linked list for future reference?
-# we could also put the date time on when they are dealt with
-
-
-
 # create node class
 class Node:
     def __init__(self, value, next_node=None):
